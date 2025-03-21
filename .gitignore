@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-Test1_grids_3x1.ipynb
+*.ipynb
+.ipynb_checkpoints/
+.virtual_documents/
 
 # C extensions
 *.so
