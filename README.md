@@ -1,5 +1,5 @@
 # SASSIE-satellite -  Severine Fournier
-
+test
 - maps_animations: make maps for making an animation of daily SIC NSIDC, SIC Astrid, SST, SSS for 2010-2023 (command line code to make animation using ffmpeg is in the code)
 
 - maps_sicastrid_new_matfiles_2010: maps of sic, first doy of ice, last doy of ice, SSS and SST right before ice appeared etc for 2010 (Astrid's files are a bit different prior 2015) - based on Astrid sic product
